@@ -37,25 +37,61 @@ const Pricing = () => {
               </div>
               <div className="flex flex-col ml-[44px] mt-[48.2px]">
                 <div className="flex flex-row">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     2 GB of space
                   </p>
                 </div>
                 <div className="flex flex-row mt-[10px]">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     14 days of backups
                   </p>
                 </div>
                 <div className="flex flex-row mt-[10px]">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     Social integrations
                   </p>
                 </div>
                 <div className="flex flex-row mt-[10px]">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     Client billing
                   </p>
@@ -104,43 +140,106 @@ const Pricing = () => {
               </div>
               <div className="flex flex-col ml-[44px] mt-[48.2px]">
                 <div className="flex flex-row">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     2 GB of space
                   </p>
                 </div>
                 <div className="flex flex-row mt-[10px]">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     14 days of backups
                   </p>
                 </div>
                 <div className="flex flex-row mt-[10px]">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     Social integrations
                   </p>
                 </div>
                 <div className="flex flex-row mt-[10px]">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     Client billing
                   </p>
                 </div>
                 <div className="flex flex-row mt-[10px]">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     Remote access
                   </p>
                 </div>
                 <div className="flex flex-row mt-[10px]">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     Custom domain
                   </p>
                 </div>
                 <div className="flex flex-row mt-[10px]">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     24 hours support
                   </p>
@@ -180,61 +279,151 @@ const Pricing = () => {
               </div>
               <div className="flex flex-col ml-[44px] mt-[48.2px]">
                 <div className="flex flex-row">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     2 GB of space
                   </p>
                 </div>
                 <div className="flex flex-row mt-[10px]">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     14 days of backups
                   </p>
                 </div>
                 <div className="flex flex-row mt-[10px]">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     Social integrations
                   </p>
                 </div>
                 <div className="flex flex-row mt-[10px]">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     Client billing
                   </p>
                 </div>
                 <div className="flex flex-row mt-[10px]">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     Remote access
                   </p>
                 </div>
                 <div className="flex flex-row mt-[10px]">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     Custom domain
                   </p>
                 </div>
                 <div className="flex flex-row mt-[10px]">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     24 hours support
                   </p>
                 </div>
                 <div className="flex flex-row mt-[10px]">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     Admin tools
                   </p>
                 </div>
                 <div className="flex flex-row mt-[10px]">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     Collaboration tools
                   </p>
                 </div>
                 <div className="flex flex-row mt-[10px]">
-                  <Image src="/check.svg" width={12} height={8} alt="Check" />
+                  <svg
+                    fill="#40C057"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 48 48"
+                    width="12px"
+                    height="12px"
+                    className="mt-[5px]"
+                  >
+                    <path d="M 42.960938 8.9804688 A 2.0002 2.0002 0 0 0 41.585938 9.5859375 L 17 34.171875 L 6.4140625 23.585938 A 2.0002 2.0002 0 1 0 3.5859375 26.414062 L 15.585938 38.414062 A 2.0002 2.0002 0 0 0 18.414062 38.414062 L 44.414062 12.414062 A 2.0002 2.0002 0 0 0 42.960938 8.9804688 z" />
+                  </svg>
                   <p className="text-[16px] font-dm font-light not-italic text-white ml-[15px]">
                     User management
                   </p>
