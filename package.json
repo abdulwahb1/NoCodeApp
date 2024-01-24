@@ -3,12 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "cross-env NEXT_PUBLIC_FRAMEWORK=next NODE_ENV=development node server.js",
-    "build-next": "cross-env NEXT_PUBLIC_FRAMEWORK=next next build",
-    "build": "yarn build-next",
-    "start": "node server.js -p 80",
-    "build:staging": "env-cmd -f .env.staging yarn build",
-    "start-next": "cross-env NEXT_PUBLIC_FRAMEWORK=next NODE_ENV=production node server.js"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
     "cross-env": "^7.0.3",
