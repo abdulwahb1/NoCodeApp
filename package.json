@@ -3,21 +3,24 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "dev": "cross-env NEXT_PUBLIC_FRAMEWORK=next NODE_ENV=development node server.js",
+    "build-next": "cross-env NEXT_PUBLIC_FRAMEWORK=next next build",
+    "build": "yarn build-next",
+    "start": "node server.js -p 80",
+    "build:staging": "env-cmd -f .env.staging yarn build",
+    "start-next": "cross-env NEXT_PUBLIC_FRAMEWORK=next NODE_ENV=production node server.js"
   },
   "dependencies": {
+    "cross-env": "^7.0.3",
+    "next": "14.0.4",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.0.4"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
-    "postcss": "^8",
-    "tailwindcss": "^3.3.0",
     "eslint": "^8",
-    "eslint-config-next": "14.0.4"
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
   }
 }
